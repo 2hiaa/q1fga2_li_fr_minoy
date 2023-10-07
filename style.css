@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&family=Caveat:wght@400;600&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Young+Serif&display=swap');
+*{
+    padding:0px;
+    margin:0px;
+}
+div{
+    margin: 3px;
+    padding: 3px;
+
+}
+
+.container{
+    position: relative;
+    display: inline-block;   
+    border: 1px solid rgb(255, 255, 255);
+}
+.menubar{
+    background-color: rgb(148,169,187);
+    position: relative;
+    border-radius: 15px;
+    height: 10vh;
+    width: 175vh;
+    padding: 10px;
+    margin: 1px;
+    border: 10px solid  rgb(229, 218, 202);
+    font-family:'Pacifico','cursive';
+    color: antiquewhite;
+    font-size: large;
+
+    
+}
+#me{
+    background-color: rgb(185,190,199);
+}
+#me a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#da{
+    background-color: rgb(185,190,199);
+}
+#da a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#er{
+    background-color: rgb(185,190,199);
+}
+#er a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#ne{
+    background-color: rgb(185,190,199);
+}
+#ne a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#rch{
+    background-color: rgb(185,190,199);
+}
+#rch a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#es{
+    background-color: rgb(185,190,199);
+}
+#es a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#ur{
+    background-color: rgb(185,190,199);
+}
+#ur a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+#ws{
+    background-color: rgb(185,190,199);
+}
+#ws a{
+   font-family: 'Pacifico', cursive;
+   color: 	rgb(88, 67, 49);
+}
+
+
+#linksgroup{text-align: end;}
+
+#linksm a{
+    text-decoration:none;
+    opacity: 0.5;
+    transition:.4s;
+}
+
+#linksm a:hover{
+    opacity: 1;
+    transition:.4s;
+    font-size: larger;
+    padding: 10px;
+}
+
+.linkst{
+    display: inline;
+    background-color: 	rgb(148,169,187);
+    border:1px solid rgb(91,134,174);
+    border-radius: 15px;
+}
+
+#linksm{
+    float:right;
+    display: inline;
+    padding-right: 15px;
+}
+
+.girl{
+    display:block;
+    margin: 5vh;
+    padding: 10vh;
+    border: 1px solid rgb(255, 255, 255);
+    position: relative;
+    border: 10px solid rgb(229, 218, 202);
+    background-color:rgb(148,169,187);
+    border-radius: 15px;
+
+}
+
+#links{
+    display: inline block;
+    position: relative;
+    border: 1px solid rgb(253, 246, 247);
+    right: 10vh;
+    height: 35vh;
+    width:10vh;
+    margin:10px;
+    padding:10px;
+    text-align: center;
+    font-size: larger;
+    border-radius: 15px;
+    
+}
+
+.linkss{
+    display: inline-block;
+    background-color: 	rgb(148,169,187);
+    border:1px solid rgb(91,134,174);
+    display: block;
+    border-radius: 15px;
+
+}
+
+#links a{
+    text-decoration:none;
+    opacity: 0.5;
+    transition:.4s;
+}
+
+#links a:hover{
+    opacity: 1;
+    transition:.4s;
+    font-size: larger;
+    padding: 10px;
+}
+
+.heading{
+    display: inline-block;
+    position: relative;
+    border: 1px solid rgb(255, 255, 255);
+    left : 10vh;
+    bottom:10vh;
+    height:50vh;
+    width: 60vw;
+    margin: 10px;
+    padding: 10px;
+    bottom:350px;
+    text-align: center;
+    border-radius: 15px;
+   font-family: 'Autour One', cursive;
+   color: rgb(239, 221, 199);
+
+
+}
+.images{
+    
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    border: 1px solid rgb(251, 247, 248);
+    left: 115px;
+    height: 40vh;
+    width: 25vh;
+    margin: 10px;
+    padding: 5px;
+    bottom:350px;
+    border-radius: 15px;
+}
+
+.images img{
+    width: 20vh;
+    height: 20vh;
+    min-width: 5vh;
+    min-height: 5vh;
+}
+
